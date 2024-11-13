@@ -1,3 +1,21 @@
+Metadata-Version: 2.1
+Name: hexaa_business_scraper
+Version: 0.1.3
+Summary: A web scraping library and API for Google Maps
+Home-page: https://github.com/dilawaizkhan08/Google_Maps_Scraper.git
+Author: Dilawaiz Khan
+Author-email: dilawaizkhan08@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: flask
+Requires-Dist: flask_cors
+Requires-Dist: playwright
+Requires-Dist: pandas
+
 # Google-Maps-Scrapper
 This Python script utilizes the Playwright library to perform web scraping and data extraction from Google Maps. It is particularly designed for obtaining information about businesses, including their name, address, website, phone number, reviews, and more.
 ## Table of Contents

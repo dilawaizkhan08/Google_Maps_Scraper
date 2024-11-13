@@ -1,0 +1,2 @@
+[console_scripts]
+hexaa_business_scraper = main:main
